@@ -1,9 +1,7 @@
 # Спринт 10
- Рабочая версия проекта: https://yandex-sprint10.now.sh/
- 
- [![ExampleProject build status](https://travis-ci.org/devopshq/ExampleProject.svg)](https://travis-ci.org/devopshq/ExampleProject) 
 
-# Установка 
-- Скопируйте проект
-- Разверните
-- Радуйтесь
+Проект можно посмотреть тут https://yandex-sprint10.now.sh/
+
+# Копировать себе для просмотра работоспособности не требуется
+
+Версия 0.0.1
