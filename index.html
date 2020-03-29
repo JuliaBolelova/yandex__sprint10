@@ -21,6 +21,7 @@
                 <fieldset class="form__fieldset">
                     <div class="form__field">
                         <input class="form__input" type="text" name="name" pattern="" placeholder="Имя" required />
+                        <input class="form__input" type="text" name="name" pattern="[А-ЯЁ]{1}[а-яё]+|[А-ЯЁ]{1}[а-яё]+\-[А-ЯЁ]{1}[а-яё]+" placeholder="Имя" minlength="2" maxlemgth="20" required />
                     </div>
                     <div class="form__field">
                         <input class="form__input" type="email" name="email" pattern="" placeholder="E-Mail" required />
